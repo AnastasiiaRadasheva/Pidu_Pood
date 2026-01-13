@@ -260,6 +260,7 @@
     <Content Include="Views\Pyhas\Edit.cshtml" />
     <Content Include="Views\Pyhas\Index.cshtml" />
     <Content Include="Views\Home\Ankeet.cshtml" />
+    <Content Include="Views\Home\Tanan.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
