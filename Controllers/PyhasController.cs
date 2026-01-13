@@ -10,7 +10,7 @@ using project.Models;
 
 namespace project.Controllers
 {
-    [Authorize]
+    //[Authorize]
     public class PyhasController : Controller
     {
         private ApplicationDbContext db = new ApplicationDbContext();
