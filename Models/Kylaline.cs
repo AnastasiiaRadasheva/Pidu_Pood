@@ -11,7 +11,7 @@ namespace project.Models
         public string Nimi { get; set; }
         public string Email { get; set; }
         public bool OnKutse { get; set; }
-        public string PyhaId { get; set; }
+        public int PyhaId { get; set; }
 
     }
 }
